@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/expense-tracker/static/css/main.352824ca.chunk.css",
-    "main.js": "/expense-tracker/static/js/main.8264c74c.chunk.js",
-    "main.js.map": "/expense-tracker/static/js/main.8264c74c.chunk.js.map",
+    "main.js": "/expense-tracker/static/js/main.e294828c.chunk.js",
+    "main.js.map": "/expense-tracker/static/js/main.e294828c.chunk.js.map",
     "runtime-main.js": "/expense-tracker/static/js/runtime-main.bdf2539c.js",
     "runtime-main.js.map": "/expense-tracker/static/js/runtime-main.bdf2539c.js.map",
     "static/js/2.f8e3325f.chunk.js": "/expense-tracker/static/js/2.f8e3325f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.bdf2539c.js",
     "static/js/2.f8e3325f.chunk.js",
     "static/css/main.352824ca.chunk.css",
-    "static/js/main.8264c74c.chunk.js"
+    "static/js/main.e294828c.chunk.js"
   ]
 }
